@@ -1,3 +1,5 @@
+// My first DOM Todo List project
+
 let input = document.querySelector("#name")
 let button = document.querySelector("#btn");
 let tasklist= document.querySelector("#tasklist");
